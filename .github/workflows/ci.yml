@@ -18,5 +18,5 @@ jobs:
         run: python sync.py --check
       - name: Every skill registers and lints (strict)
         run: python skills/skill-rollcall/scripts/rollcall.py --claude-home ./.no-home --no-plugins --project . --skills-dir skills --lint --strict --full
-      - name: Content audit (strict: no high findings)
+      - name: Content audit, strict (no high findings)
         run: python skills/skill-rollcall/scripts/rollcall.py --claude-home ./.no-home --no-plugins --project . --skills-dir skills --audit --strict --problems-only
