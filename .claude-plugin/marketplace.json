@@ -1,0 +1,41 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "Londopy",
+    "url": "https://github.com/Londopy"
+  },
+  "description": "Londopy's Claude Code skills: the whole family as one plugin, or each one on its own.",
+  "plugins": [
+    {
+      "name": "londopy-skills",
+      "source": "./",
+      "description": "All four at once: skill-rollcall, mcp-rollcall, settings-effective, git-attribution.",
+      "version": "1.0.0",
+      "keywords": ["claude-code", "skills", "diagnostics"]
+    },
+    {
+      "name": "skill-rollcall",
+      "source": { "source": "github", "repo": "Londopy/skill-rollcall" },
+      "description": "Which skills are registered, which are new, which will never register and why.",
+      "keywords": ["claude-code", "skills"]
+    },
+    {
+      "name": "mcp-rollcall",
+      "source": { "source": "github", "repo": "Londopy/mcp-rollcall" },
+      "description": "Which MCP servers will fail to connect, exactly why, and what each costs.",
+      "keywords": ["claude-code", "mcp"]
+    },
+    {
+      "name": "settings-effective",
+      "source": { "source": "github", "repo": "Londopy/settings-effective" },
+      "description": "The merged settings actually in effect, which file decided each key, and why yours isn't applying.",
+      "keywords": ["claude-code", "settings"]
+    },
+    {
+      "name": "git-attribution",
+      "source": { "source": "github", "repo": "Londopy/git-attribution" },
+      "description": "Find and remove AI co-author attribution from git history; guard against it coming back.",
+      "keywords": ["claude-code", "git"]
+    }
+  ]
+}

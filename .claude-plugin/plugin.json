@@ -1,0 +1,14 @@
+{
+  "name": "londopy-skills",
+  "displayName": "Londopy Skills",
+  "version": "1.0.0",
+  "description": "The rollcall family in one install: skill-rollcall, mcp-rollcall, settings-effective and git-attribution - tools that make what Claude Code does silently legible.",
+  "author": {
+    "name": "Londopy",
+    "url": "https://github.com/Londopy"
+  },
+  "homepage": "https://github.com/Londopy/claude-skills",
+  "repository": "https://github.com/Londopy/claude-skills",
+  "license": "MIT",
+  "keywords": ["claude-code", "skills", "mcp", "settings", "git", "diagnostics", "plugin"]
+}
