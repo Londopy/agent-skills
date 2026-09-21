@@ -1,26 +1,26 @@
 {
   "skill-rollcall": {
     "repo": "Londopy/skill-rollcall",
-    "commit": "4ded4b95138be46d873cfdd94ac41efca89d9284",
-    "version": "1.1.1",
-    "synced": "2026-09-19"
+    "commit": "e1ec1df24306799450736dfac22f4f054d4835c1",
+    "version": "1.2.0",
+    "synced": "2026-09-21"
   },
   "mcp-rollcall": {
     "repo": "Londopy/mcp-rollcall",
-    "commit": "1cd0f2b7bfd73fc9c382b4295495388e92ffd65b",
-    "version": "1.0.0",
-    "synced": "2026-09-19"
+    "commit": "4cb06c6ed6ebba71c9c4d50c0520a44455bec6f6",
+    "version": "1.1.0",
+    "synced": "2026-09-21"
   },
   "settings-effective": {
     "repo": "Londopy/settings-effective",
-    "commit": "323d3cb720f0317dbd4253134c96c29117bcd293",
-    "version": "1.0.0",
-    "synced": "2026-09-19"
+    "commit": "9e0b12d3c9ca9a35cc4ba0b580623a56c2a8cda8",
+    "version": "1.1.0",
+    "synced": "2026-09-21"
   },
   "git-attribution": {
     "repo": "Londopy/git-attribution",
-    "commit": "992015015a7ca6a9c6b23a3fd8ee930ea2b9ff7f",
-    "version": "1.0.0",
-    "synced": "2026-09-19"
+    "commit": "d598eb5b18de4ddbd5058075b337e371fdddf2de",
+    "version": "1.1.0",
+    "synced": "2026-09-21"
   }
 }

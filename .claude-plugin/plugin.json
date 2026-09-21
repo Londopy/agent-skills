@@ -1,14 +1,28 @@
 {
   "name": "londopy-skills",
   "displayName": "Londopy Skills",
-  "version": "1.0.0",
-  "description": "The rollcall family in one install: skill-rollcall, mcp-rollcall, settings-effective and git-attribution - tools that make what Claude Code does silently legible.",
+  "version": "1.1.0",
+  "description": "The rollcall family in one install: skill-rollcall, mcp-rollcall, settings-effective and git-attribution - tools that make what your coding agent does silently legible, for Claude Code, Codex, Cursor, Gemini CLI, Copilot, OpenCode and every other Agent Skills host.",
   "author": {
     "name": "Londopy",
     "url": "https://github.com/Londopy"
   },
-  "homepage": "https://github.com/Londopy/claude-skills",
-  "repository": "https://github.com/Londopy/claude-skills",
+  "homepage": "https://github.com/Londopy/agent-skills",
+  "repository": "https://github.com/Londopy/agent-skills",
   "license": "MIT",
-  "keywords": ["claude-code", "skills", "mcp", "settings", "git", "diagnostics", "plugin"]
+  "keywords": [
+    "claude-code",
+    "codex",
+    "cursor",
+    "gemini-cli",
+    "copilot",
+    "opencode",
+    "agent-skills",
+    "skills",
+    "mcp",
+    "settings",
+    "git",
+    "diagnostics",
+    "plugin"
+  ]
 }
